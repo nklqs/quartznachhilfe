@@ -10,9 +10,11 @@ title: Nachhilfeseite Niklas
 
 ### Aktuelle Stunde Nachhilfe Richter:
 
-[[13.04.2025]]
-
+[Aktuell](https://nklqs.github.io/quartznachhilfe/Nachhilfe-Richter/Aktuelle-Nachhilfestunden/)
 ### Aktuelle Stunde Nachhilfe Schuster:
-[[11.04.2025]]
+[Aktuell](https://nklqs.github.io/quartznachhilfe/Nachhilfe-Schuster/Aktuelle-Nachhilfestunden/)
+
+
+
 
 
