@@ -10,8 +10,9 @@ title: Nachhilfeseite Niklas
 
 ### Aktuelle Stunde Nachhilfe Richter:
 
-test
+[[13.04.2025]]
 
 ### Aktuelle Stunde Nachhilfe Schuster:
+[[11.04.2025]]
 
 
