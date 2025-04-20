@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Nachhilfeseite Niklas
 ---
-# Nachhilfeseite Niklas
+
 
 - WICHTIG: Um die Seitenleiste bei Mobilgeräten anzuzeigen muss beim Browser (Anwendung die gerade verwendet wird, bspw. Chrome) die Desktopansicht aktiviert werden.
     - So aktiviert man die Ansicht in Chrome auf Android: [https://www.giga.de/artikel/desktop-version-von-webseiten-oeffnen-android-ios/](https://nachhilfe01.netlify.app/note//)
