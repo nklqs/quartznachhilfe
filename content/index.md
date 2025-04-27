@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Nachhilfe
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Willkommen auf der neuen Nachhilfeseite. Um zu den richtigen Einträgen zu gelangen, genügt es, die Seitenleiste aufzuklappen und das richtige Abteil zu finden. Ansonsten hat sich die Struktur gegenüber OneNote nicht verändert.
