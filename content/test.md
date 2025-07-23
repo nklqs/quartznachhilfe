@@ -30,9 +30,7 @@ sequenceDiagram
 ```
 9. Callouts
 > [!info] Title
-> 
 > This is a callout!
-> 
 
 > [!warning] Warning
 > 
