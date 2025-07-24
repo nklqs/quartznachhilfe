@@ -2,7 +2,8 @@
 title: Nachhilfeseite Niklas
 ---
 ---
-Hallo. Du befindest dich auf der Nachhilfen-Hauptseite. Wechsle jeweils im Explorer zu deinen jeweiligen Nachhilfestunden.
+> [!info] Info
+> Hallo. Du befindest dich auf der Nachhilfen-Hauptseite. Wechsle jeweils im Explorer zu deinen jeweiligen Nachhilfestunden.
 
 Here's a duck pic (Viel Erfolg beim Lernen!)
 
