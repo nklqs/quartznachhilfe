@@ -27,3 +27,5 @@
 
 Legende: 
 1. Signalwörter: Wörter im Englischen, die eine bestimmte Zeitform andeuten
+
+https://www.englisch-hilfen.de/grammar/englische_zeiten.htm
