@@ -1,6 +1,6 @@
 ### Zeitformen (tenses) Übersicht
 1. Will-Future
-> ==Zukunftsform==
+ ==Zukunftsform==
 >Bildung: Mit **WILL**
 >Beispiel: I will go to school tomorrow = I werde morgen zur Schule gehen
 >Besonderheit: Verkürzung He'==ll== go to school tomorrow
